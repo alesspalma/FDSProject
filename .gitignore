@@ -2,4 +2,6 @@ w2v100CBOW/
 w2v1000CBOW/
 w2v100SG/
 w2v1000SG/
+TF_IDF/
+__pycache__/
 .ipynb_checkpoints/
