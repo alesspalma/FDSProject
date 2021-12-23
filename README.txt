@@ -1,4 +1,4 @@
-On the google drive folder at https://drive.google.com/drive/folders/1o_sFskElqxLrOTcdEjlX3PYn_NgGxOLU?usp=sharing :
+On the google drive folder at https://drive.google.com/drive/folders/1o_sFskElqxLrOTcdEjlX3PYn_NgGxOLU?usp=sharing you will find:
 
 go_emotions_dataset.csv -> original dataset from kaggle;
 
