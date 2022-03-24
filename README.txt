@@ -1,3 +1,5 @@
+##IF you want to know more, please take a look at the report.pdf file
+
 On the google drive folder at https://drive.google.com/drive/folders/1o_sFskElqxLrOTcdEjlX3PYn_NgGxOLU?usp=sharing you will find:
 
 go_emotions_dataset.csv -> original dataset from kaggle;
